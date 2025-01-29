@@ -11,5 +11,5 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=nosql&logoColor=white" alt="NoSQL" />
 
-![snake gif](https://github.com/sandilokaa/sandilokaa/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/sandilokaa/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
