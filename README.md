@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/GORM-7E1F4C?style=flat&logo=go&logoColor=white" alt="GORM" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=mysql&logoColor=white" alt="Sequelize" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white" alt="Mongoose" />
